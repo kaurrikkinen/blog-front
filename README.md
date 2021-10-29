@@ -1,24 +1,8 @@
-# adcash-front
+## Blog front end
 
-## Project setup
-```
-yarn install
-```
+Created using Vue and Vuetify.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Setup: `yarn install`  
+Compile and start: `yarn serve`
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For local PHP API server uses proxy `http://[::1]:8000/` 
